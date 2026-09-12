@@ -16,7 +16,7 @@ Bind the scripts to be executed whenthe respective buttons are pressed and you'r
 
 ## Known issues/Roadmap
 
-> [INFO]
+> [!INFO]
 > I probably won't tend to those issues any time soon as I'm pretty content with the scripts for now. <br>
 > This of course does not mean that I won't lament over not having them any chance I get.
 
